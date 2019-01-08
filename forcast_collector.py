@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd ## pandas is a Python Data Analysis Library (it helped me get the dataframe from the html and parse it to json), i installed it with pip install pandas.
 
 calls_df, = pd.read_html("https://weather.com/weather/hourbyhour/l/ISXX0026:1:IS", header=0)
 

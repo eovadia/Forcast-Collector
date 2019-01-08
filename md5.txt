@@ -1,1 +1,1 @@
-f12ff609263593dfc5ac50250ccb6119  forcast_collector.py
+655873c35f98838fcae57280a8d07dab  forcast_collector.py
